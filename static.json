@@ -2,7 +2,8 @@
   "headers": {
     "/*": {
       "X-Author": "itmo287667",
-      "Access-Control-Allow-Origin": "*"
+      "Access-Control-Allow-Origin": "*",
+      "content-type": "application/javascript; charset=utf-8"
     } 
   }
 }
